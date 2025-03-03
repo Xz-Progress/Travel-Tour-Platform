@@ -1,0 +1,48 @@
+
+---
+
+### **📜 `CONTRIBUTING.md` (Collaboration Guidelines)**  
+```md
+# 🤝 Contributing to Travel & Tour Platform
+
+Thank you for your interest in contributing to this project! 🎉  
+We follow an **Agile mindset**, working in iterations with **clear sprint goals**.
+
+## How to Contribute
+1. **Pick an issue** from the [issue tracker](https://github.com/your-org/travel-tour-platform/issues).
+2. **Discuss** the feature in the issue comments.
+3. **Create a branch** following the naming convention:
+4. **Make your changes** and ensure code quality.
+5. **Submit a Pull Request (PR)** and request a review.
+
+## Contribution Guidelines
+- Keep commits **small and meaningful**.
+- Follow the **branching strategy** (`main → develop → feature`).
+- Code should follow **clean coding principles**.
+- Always write/update **tests** when introducing changes.
+
+## Labeling Issues & PRs
+| Label         | Description |
+|--------------|------------|
+| `feature`    | New feature implementation |
+| `bug`        | Fixing an issue |
+| `documentation` | Updating docs |
+| `frontend`   | Changes to UI/UX |
+| `backend`    | Changes to backend APIs |
+
+## Code Review Process
+- All **PRs require at least one review** before merging.
+- PRs should be linked to a **Sprint Goal / User Story**.
+
+## Sprint Goals & Agile Workflow
+We work in **Scrum-based sprints (2 weeks)**. Each sprint has:
+- **Sprint Goal** (e.g., "Implement booking feature").
+- **Daily scrum** for progress tracking.
+- **Sprint Review** & **Retrospective** at the end.
+
+## Ready to Contribute?
+- Fork the repo
+- Open a PR
+- Join the conversation in our **Slack community**!
+
+Happy coding! 
